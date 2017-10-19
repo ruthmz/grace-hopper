@@ -1,5 +1,5 @@
 Página web de Grace Hopper
-*************
-Descripción
----------------
+=========================
+Descripción del proyecto
+------------------------
 Recreando página de wikipedia de Grace Hopper.
